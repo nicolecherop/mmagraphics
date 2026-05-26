@@ -1,0 +1,17 @@
+/* style.css */
+
+body{
+    text-align:center;
+    background:lightblue;
+    font-family:Arial;
+}
+
+h1{
+    color:darkblue;
+}
+
+canvas{
+    background:#87CEEB;
+    border:4px solid navy;
+    margin-top:20px;
+}
